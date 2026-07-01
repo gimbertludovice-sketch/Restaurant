@@ -29,6 +29,7 @@ Your enhanced LUDOVICE RMS now includes:
 - Username: `demo_manager`
 - Password: `demo123`
 - Email: `gimbertludovice@student.trimexcolleges.edu.ph`
+- 
 **Cashier Account:**
 - Username: `demo_cashier`
 - Password: `demo123`
